@@ -1,0 +1,178 @@
+@font-face {
+	font-family: 'font-hc';
+	src:url('../fonts/font-hc.eot?-ox2l7q');
+	src:url('../fonts/font-hc.eot?#iefix-ox2l7q') format('embedded-opentype'),
+		url('../fonts/font-hc.ttf?-ox2l7q') format('truetype'),
+		url('../fonts/font-hc.woff?-ox2l7q') format('woff'),
+		url('../fonts/font-hc.svg?-ox2l7q#font-hc') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="hc-icon-"], [class*=" hc-icon-"] {
+	font-family: 'font-hc';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.hc-icon-cycling:before {
+	content: "\e62d";
+}
+.hc-icon-runner-left:before {
+	content: "\e62e";
+}
+.hc-icon-stretches:before {
+	content: "\e62f";
+}
+.hc-icon-treadmil:before {
+	content: "\e630";
+}
+.hc-icon-weight-rounded:before {
+	content: "\e631";
+}
+.hc-icon-yoga:before {
+	content: "\e632";
+}
+.hc-icon-arrow-top:before {
+	content: "\e62c";
+}
+.hc-icon-paper:before {
+	content: "\e62b";
+}
+.hc-icon-quote:before {
+	content: "\e614";
+}
+.hc-icon-headphones:before {
+	content: "\e62a";
+}
+.hc-icon-circle:before {
+	content: "\e628";
+}
+.hc-icon-drugs:before {
+	content: "\e629";
+}
+.hc-icon-apple-o:before {
+	content: "\e625";
+}
+.hc-icon-stopwatch:before {
+	content: "\e626";
+}
+.hc-icon-dumbbell-circle:before {
+	content: "\e627";
+}
+.hc-icon-smile:before {
+	content: "\e60a";
+}
+.hc-icon-leaf:before {
+	content: "\e61b";
+}
+.hc-icon-bottle:before {
+	content: "\e600";
+}
+.hc-icon-apple:before {
+	content: "\e601";
+}
+.hc-icon-big-arrow-r:before {
+	content: "\e602";
+}
+.hc-icon-arrow-r:before {
+	content: "\e603";
+}
+.hc-icon-big-arrow-l:before {
+	content: "\e604";
+}
+.hc-icon-pill:before {
+	content: "\e605";
+}
+.hc-icon-pulse:before {
+	content: "\e606";
+}
+.hc-icon-balance:before {
+	content: "\e607";
+}
+.hc-icon-video:before {
+	content: "\e608";
+}
+.hc-icon-bottle-1:before {
+	content: "\e609";
+}
+.hc-icon-dumbbell:before {
+	content: "\e60b";
+}
+.hc-icon-wheat:before {
+	content: "\e60c";
+}
+.hc-icon-heart:before {
+	content: "\e60d";
+}
+.hc-icon-heart-o:before {
+	content: "\e60e";
+}
+.hc-icon-watermelon-o:before {
+	content: "\e60f";
+}
+.hc-icon-key:before {
+	content: "\e610";
+}
+.hc-icon-grid:before {
+	content: "\e611";
+}
+.hc-icon-post:before {
+	content: "\e612";
+}
+.hc-icon-flash:before {
+	content: "\e613";
+}
+.hc-icon-run:before {
+	content: "\e615";
+}
+.hc-icon-run-2:before {
+	content: "\e616";
+}
+.hc-icon-shield:before {
+	content: "\e617";
+}
+.hc-icon-shoes:before {
+	content: "\e618";
+}
+.hc-icon-blank:before {
+	content: "\e619";
+}
+.hc-icon-lifebuoy:before {
+	content: "\e61a";
+}
+.hc-icon-tea:before {
+	content: "\e61c";
+}
+.hc-icon-tea-2:before {
+	content: "\e61d";
+}
+.hc-icon-hourglass:before {
+	content: "\e61e";
+}
+.hc-icon-checked:before {
+	content: "\e61f";
+}
+.hc-icon-checked-2:before {
+	content: "\e620";
+}
+.hc-icon-vitamins:before {
+	content: "\e621";
+}
+.hc-icon-female:before {
+	content: "\e622";
+}
+.hc-icon-male:before {
+	content: "\e623";
+}
+.hc-icon-waist:before {
+	content: "\e624";
+}

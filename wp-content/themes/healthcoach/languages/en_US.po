@@ -1,0 +1,4652 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: healthcoach\n"
+"POT-Creation-Date: 2015-09-21 16:02+0500\n"
+"PO-Revision-Date: 2016-02-12 15:10+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /Users/apple/WP/Projects/healthcoach-stm/wp-content/"
+"themes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: healthcoach\n"
+
+#: healthcoach/404.php:6
+msgid "404"
+msgstr ""
+
+#: healthcoach/404.php:7
+msgid "The page you are looking for does not exist."
+msgstr ""
+
+#: healthcoach/404.php:8
+msgid "Back to main page"
+msgstr ""
+
+#: healthcoach/comments.php:19 healthcoach/comments.php:48
+msgid "Comment navigation"
+msgstr ""
+
+#: healthcoach/comments.php:22 healthcoach/comments.php:51
+msgid "Older Comments"
+msgstr ""
+
+#: healthcoach/comments.php:26 healthcoach/comments.php:55
+msgid "Newer Comments"
+msgstr ""
+
+#: healthcoach/comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: healthcoach/comments.php:81
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:582
+#: healthcoach/woocommerce/single-product-reviews.php:59
+msgid "Name"
+msgstr ""
+
+#: healthcoach/comments.php:86
+msgid "E-mail (Not necessary)"
+msgstr ""
+
+#: healthcoach/comments.php:92
+msgid "Post Comment"
+msgstr ""
+
+#: healthcoach/comments.php:93
+msgid "Write a comment"
+msgstr ""
+
+#: healthcoach/comments.php:95
+#: healthcoach/woocommerce/single-product-reviews.php:68
+msgid "Message"
+msgstr ""
+
+#: healthcoach/content-none.php:4
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: healthcoach/content-none.php:8
+msgid "Sorry, nothing found."
+msgstr ""
+
+#: healthcoach/content-none.php:13
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: healthcoach/content-search.php:7 healthcoach/content-single.php:31
+#: healthcoach/content.php:76
+msgid "By:"
+msgstr ""
+
+#: healthcoach/content-search.php:9 healthcoach/content-single.php:33
+#: healthcoach/content.php:78
+msgid "Category:"
+msgstr ""
+
+#: healthcoach/content-search.php:11 healthcoach/content.php:80
+msgid "Comments"
+msgstr ""
+
+#: healthcoach/content-service.php:14
+#: healthcoach/inc/visual-composer/vc-templates/stm_services.php:70
+msgid "More info"
+msgstr ""
+
+#: healthcoach/content-single.php:35
+msgid "Comments:"
+msgstr ""
+
+#: healthcoach/content-single.php:57 healthcoach/content-testimonial.php:38
+msgid "Pages:"
+msgstr ""
+
+#: healthcoach/footer.php:74
+msgid "New search..."
+msgstr ""
+
+#: healthcoach/functions.php:30
+msgid "Top primary menu"
+msgstr ""
+
+#: healthcoach/functions.php:126
+msgid "Blog Sidebar"
+msgstr ""
+
+#: healthcoach/functions.php:128
+msgid "Blog sidebar that appears on the left/right."
+msgstr ""
+
+#: healthcoach/functions.php:135
+msgid "Event Sidebar"
+msgstr ""
+
+#: healthcoach/functions.php:137
+msgid "Event sidebar that appears on the left/right."
+msgstr ""
+
+#: healthcoach/functions.php:144
+msgid "Shop Sidebar"
+msgstr ""
+
+#: healthcoach/functions.php:146 healthcoach/functions.php:155
+#: healthcoach/functions.php:164 healthcoach/functions.php:173
+#: healthcoach/functions.php:182
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: healthcoach/functions.php:153
+msgid "Footer Widgets - Column 1"
+msgstr ""
+
+#: healthcoach/functions.php:162
+msgid "Footer Widgets - Column 2"
+msgstr ""
+
+#: healthcoach/functions.php:171
+msgid "Footer Widgets - Column 3"
+msgstr ""
+
+#: healthcoach/functions.php:180
+msgid "Footer Widgets - Column 4"
+msgstr ""
+
+#: healthcoach/header.php:26
+msgid "Search..."
+msgstr ""
+
+#: healthcoach/header.php:120 healthcoach/woocommerce/cart/mini-cart.php:55
+msgid "No products in the cart."
+msgstr ""
+
+#: healthcoach/header.php:124 healthcoach/woocommerce/cart/cart-totals.php:24
+#: healthcoach/woocommerce/cart/mini-cart.php:63
+#: healthcoach/woocommerce/checkout/review-order.php:52
+msgid "Subtotal"
+msgstr ""
+
+#: healthcoach/header.php:126 healthcoach/woocommerce/cart/mini-cart.php:69
+msgid "Checkout"
+msgstr ""
+
+#: healthcoach/header.php:127
+msgid "View cart"
+msgstr ""
+
+#: healthcoach/searchform.php:3
+msgid "New search"
+msgstr ""
+
+#: healthcoach/inc/custom.php:121
+msgid "(Edit)"
+msgstr ""
+
+#: healthcoach/inc/custom.php:127
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: healthcoach/inc/customizer/live-customizer.php:3
+msgid "Style Switcher"
+msgstr ""
+
+#: healthcoach/inc/customizer/live-customizer.php:8
+msgid "Headers layouts"
+msgstr ""
+
+#: healthcoach/inc/customizer/live-customizer.php:11
+#: healthcoach/inc/redux-framework/options-init.php:539
+#: healthcoach/inc/redux-framework/options-init.php:1540
+#: healthcoach/inc/redux-framework/redux-framework/framework.php:1880
+#: healthcoach/inc/visual-composer/visual-composer.php:267
+msgid "Default"
+msgstr ""
+
+#: healthcoach/inc/customizer/live-customizer.php:12
+#: healthcoach/inc/redux-framework/options-init.php:601
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:124
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/color/field_color.php:73
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/color_gradient/field_color_gradient.php:79
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: healthcoach/inc/customizer/live-customizer.php:17
+msgid "Top bar"
+msgstr ""
+
+#: healthcoach/inc/customizer/live-customizer.php:20
+#: healthcoach/inc/redux-framework/redux-framework/framework.php:1731
+#: healthcoach/inc/visual-composer/visual-composer.php:1591
+msgid "Enable"
+msgstr ""
+
+#: healthcoach/inc/customizer/live-customizer.php:21
+#: healthcoach/inc/redux-framework/redux-framework/framework.php:1736
+#: healthcoach/inc/visual-composer/visual-composer.php:1592
+msgid "Disable"
+msgstr ""
+
+#: healthcoach/inc/customizer/live-customizer.php:26
+msgid "Color skin"
+msgstr ""
+
+#: healthcoach/inc/customizer/live-customizer.php:35
+msgid "Navigation"
+msgstr ""
+
+#: healthcoach/inc/customizer/live-customizer.php:37
+msgid "Static"
+msgstr ""
+
+#: healthcoach/inc/customizer/live-customizer.php:39
+msgid "Sticky"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:31
+#: healthcoach/inc/redux-framework/options-init.php:32
+msgid "Theme Options"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:86
+#: healthcoach/inc/redux-framework/options-init.php:832
+msgid "General"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:94
+msgid "Site Favicon"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:96
+msgid "Upload a 16x16px .png or .gif image here"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:101
+msgid "Primary Color"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:347
+msgid "Top Bar"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:355
+msgid "Top Bar Enable"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:366
+#: healthcoach/inc/redux-framework/options-init.php:559
+#: healthcoach/inc/redux-framework/options-init.php:1778
+#: healthcoach/inc/redux-framework/options-init.php:2029
+msgid "Background"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:375
+#: healthcoach/inc/redux-framework/options-init.php:571
+#: healthcoach/inc/redux-framework/options-init.php:626
+#: healthcoach/inc/visual-composer/visual-composer.php:53
+#: healthcoach/inc/visual-composer/visual-composer.php:756
+#: healthcoach/inc/visual-composer/visual-composer.php:798
+#: healthcoach/inc/visual-composer/visual-composer.php:822
+#: healthcoach/inc/visual-composer/visual-composer.php:990
+#: healthcoach/inc/visual-composer/visual-composer.php:1679
+#: healthcoach/inc/visual-composer/visual-composer.php:1711
+#: healthcoach/inc/visual-composer/visual-composer.php:1727
+#: healthcoach/inc/visual-composer/visual-composer.php:1852
+#: healthcoach/inc/visual-composer/visual-composer.php:1935
+msgid "Color"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:389
+msgid "Schedule Enable"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:395
+msgid "Schedule"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:406
+msgid "Contacts Enable"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:412
+#: healthcoach/inc/visual-composer/visual-composer.php:1529
+msgid "E-Mail"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:420
+msgid "Phone"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:427
+msgid "Social Networks Enable"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:433
+msgid "Select Social Media Icons to display"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:434
+msgid ""
+"The urls for your social media icons will be taken from Social Media "
+"settings tab."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:450
+msgid "Language Enable"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:457
+msgid "Header"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:466
+#: healthcoach/inc/redux-framework/options-init.php:722
+msgid "Logo Size"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:475
+msgid "Enable Search"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:481
+msgid "Enable Cart"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:493
+#: healthcoach/inc/redux-framework/options-init.php:752
+msgid "Spacing ( Top / Bottom )"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:509
+#: healthcoach/inc/redux-framework/options-init.php:737
+msgid "Logo Spacing"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:518
+#: healthcoach/inc/redux-framework/options-init.php:691
+#: healthcoach/inc/redux-framework/options-init.php:774
+#: healthcoach/inc/redux-framework/options-init.php:799
+#: healthcoach/inc/redux-framework/options-init.php:824
+#: healthcoach/inc/redux-framework/options-init.php:1332
+#: healthcoach/inc/redux-framework/options-init.php:2038
+#: healthcoach/inc/visual-composer/visual-composer.php:438
+#: healthcoach/inc/visual-composer/visual-composer.php:450
+#: healthcoach/inc/visual-composer/visual-composer.php:463
+#: healthcoach/inc/visual-composer/visual-composer.php:471
+#: healthcoach/inc/visual-composer/visual-composer.php:479
+#: healthcoach/inc/visual-composer/visual-composer.php:488
+#: healthcoach/inc/visual-composer/visual-composer.php:502
+#: healthcoach/inc/visual-composer/visual-composer.php:511
+#: healthcoach/inc/visual-composer/visual-composer.php:519
+#: healthcoach/inc/visual-composer/visual-composer.php:527
+#: healthcoach/inc/visual-composer/visual-composer.php:536
+#: healthcoach/inc/visual-composer/visual-composer.php:549
+#: healthcoach/inc/visual-composer/visual-composer.php:558
+#: healthcoach/inc/visual-composer/visual-composer.php:566
+#: healthcoach/inc/visual-composer/visual-composer.php:574
+#: healthcoach/inc/visual-composer/visual-composer.php:583
+#: healthcoach/inc/visual-composer/visual-composer.php:591
+#: healthcoach/inc/visual-composer/visual-composer.php:598
+#: healthcoach/inc/visual-composer/visual-composer.php:611
+#: healthcoach/inc/visual-composer/visual-composer.php:618
+#: healthcoach/inc/visual-composer/visual-composer.php:624
+#: healthcoach/inc/visual-composer/visual-composer.php:1032
+#: healthcoach/inc/visual-composer/visual-composer.php:1040
+#: healthcoach/inc/visual-composer/visual-composer.php:1047
+#: healthcoach/inc/visual-composer/visual-composer.php:1059
+#: healthcoach/inc/visual-composer/visual-composer.php:1067
+#: healthcoach/inc/visual-composer/visual-composer.php:1074
+#: healthcoach/inc/visual-composer/visual-composer.php:1086
+#: healthcoach/inc/visual-composer/visual-composer.php:1094
+#: healthcoach/inc/visual-composer/visual-composer.php:1101
+#: healthcoach/inc/visual-composer/visual-composer.php:1109
+#: healthcoach/inc/visual-composer/visual-composer.php:1116
+#: healthcoach/inc/visual-composer/visual-composer.php:1236
+#: healthcoach/inc/visual-composer/visual-composer.php:1243
+#: healthcoach/inc/visual-composer/visual-composer.php:1250
+#: healthcoach/inc/visual-composer/visual-composer.php:1257
+#: healthcoach/inc/visual-composer/visual-composer.php:1577
+#: healthcoach/inc/visual-composer/visual-composer.php:1584
+msgid "Typography"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:547
+#: healthcoach/inc/redux-framework/options-init.php:609
+msgid "Logo"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:549
+#: healthcoach/inc/redux-framework/options-init.php:611
+msgid "Upload your logo file here."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:588
+#: healthcoach/inc/redux-framework/options-init.php:638
+msgid "Icon - Border Color"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:650
+#: healthcoach/inc/redux-framework/options-init.php:793
+msgid "Sub menu"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:660
+msgid "Menu Width"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:668
+#: healthcoach/inc/redux-framework/options-init.php:1703
+msgid "Background Color"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:680
+#: healthcoach/inc/redux-framework/options-init.php:762
+msgid "Separator Color"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:714
+msgid "Mobile menu"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:854
+msgid "Secondary"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:896
+msgid "H1"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:918
+msgid "H2"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:940
+msgid "H3"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:962
+msgid "H4"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:984
+msgid "H5"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1006
+#: healthcoach/inc/visual-composer/vc-templates/vc_wp_pages.php:4
+#: healthcoach/inc/widgets/widgets.php:102
+msgid "Pages"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1019
+msgid "Page 404 - Background"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1036
+msgid "Page Coming Soon - Background"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1049
+#: healthcoach/inc/redux-framework/options-init.php:1228
+#: healthcoach/inc/redux-framework/options-init.php:1861
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:145
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:200
+#: healthcoach/inc/visual-composer/visual-composer.php:333
+#: healthcoach/inc/visual-composer/visual-composer.php:418
+#: healthcoach/inc/visual-composer/visual-composer.php:679
+#: healthcoach/inc/visual-composer/visual-composer.php:949
+#: healthcoach/inc/visual-composer/visual-composer.php:1459
+#: healthcoach/inc/visual-composer/visual-composer.php:1484
+#: healthcoach/inc/visual-composer/visual-composer.php:1514
+#: healthcoach/inc/visual-composer/visual-composer.php:2092
+#: healthcoach/inc/visual-composer/visual-composer.php:2170
+#: healthcoach/inc/visual-composer/visual-composer.php:2216
+msgid "Title"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1056
+msgid "Alignment"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1076
+msgid "Title - Typography"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1102
+msgid "Title - Spacing"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1111
+#: healthcoach/inc/visual-composer/visual-composer.php:129
+#: healthcoach/inc/visual-composer/visual-composer.php:362
+#: healthcoach/inc/visual-composer/visual-composer.php:1866
+msgid "Icon"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1118
+msgid "Icon - Typography"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1136
+msgid "Icon - Position"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1152
+msgid "Icon - Spacing ( Top / Bottom )"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1162
+msgid "Shop"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1170
+msgid "Products Title"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1176
+msgid "Products Count"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1185
+msgid "Number of Products Per Row"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1187
+msgid "One"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1188
+#: healthcoach/inc/visual-composer/visual-composer.php:1159
+#: healthcoach/inc/visual-composer/visual-composer.php:1304
+#: healthcoach/inc/visual-composer/visual-composer.php:1980
+msgid "Two"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1189
+#: healthcoach/inc/visual-composer/visual-composer.php:1160
+#: healthcoach/inc/visual-composer/visual-composer.php:1303
+#: healthcoach/inc/visual-composer/visual-composer.php:1981
+msgid "Three"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1190
+#: healthcoach/inc/visual-composer/visual-composer.php:1161
+#: healthcoach/inc/visual-composer/visual-composer.php:1305
+#: healthcoach/inc/visual-composer/visual-composer.php:1982
+msgid "Four"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1197
+msgid "Sidebar - Shop"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1199
+#: healthcoach/inc/redux-framework/options-init.php:1210
+#: healthcoach/inc/redux-framework/options-init.php:1246
+#: healthcoach/inc/redux-framework/options-init.php:1257
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/border/field_border.php:159
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:236
+#: healthcoach/inc/visual-composer/visual-composer.php:447
+#: healthcoach/inc/visual-composer/visual-composer.php:705
+#: healthcoach/inc/visual-composer/visual-composer.php:1210
+#: healthcoach/inc/visual-composer/visual-composer.php:1670
+msgid "Left"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1200
+#: healthcoach/inc/redux-framework/options-init.php:1211
+#: healthcoach/inc/redux-framework/options-init.php:1247
+#: healthcoach/inc/redux-framework/options-init.php:1258
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/border/field_border.php:145
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:222
+#: healthcoach/inc/visual-composer/visual-composer.php:448
+#: healthcoach/inc/visual-composer/visual-composer.php:706
+#: healthcoach/inc/visual-composer/visual-composer.php:1211
+#: healthcoach/inc/visual-composer/visual-composer.php:1671
+msgid "Right"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1201
+#: healthcoach/inc/redux-framework/options-init.php:1212
+#: healthcoach/inc/redux-framework/options-init.php:1248
+#: healthcoach/inc/redux-framework/options-init.php:1259
+msgid "Hide"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1208
+msgid "Sidebar - Single Product"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1220
+msgid "Blog"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1234
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:2438
+#: healthcoach/inc/visual-composer/visual-composer.php:126
+#: healthcoach/inc/visual-composer/visual-composer.php:264
+#: healthcoach/inc/visual-composer/visual-composer.php:1768
+msgid "Type"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1236
+#: healthcoach/inc/visual-composer/visual-composer.php:1403
+msgid "Grid"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1237
+#: healthcoach/inc/visual-composer/visual-composer.php:1404
+msgid "List"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1244
+msgid "Sidebar"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1255
+msgid "Post Sidebar"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1266
+msgid "Sticky Text"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1273
+msgid "Social networks"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1281
+msgid "Facebook"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1283
+msgid "Enter your Facebook URL."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1288
+msgid "Twitter"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1290
+msgid "Enter your Twitter URL."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1295
+msgid "Instagram"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1297
+msgid "Enter your Instagram URL."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1302
+msgid "Google Plus"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1304
+msgid "Enter your Google Plus URL."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1309
+msgid "Pinterest"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1311
+msgid "Enter your Pinterest URL."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1316
+msgid "Youtube"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1318
+msgid "Enter your Youtube URL."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1324
+msgid "Buttons"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1355
+msgid "Typography - Small"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1384
+msgid "Size - Small"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1404
+msgid "Size - Normal"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1423
+msgid "Outline Size - Small"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1441
+msgid "Outline Size - Normal"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1453
+#: healthcoach/inc/visual-composer/visual-composer.php:853
+#: healthcoach/inc/visual-composer/visual-composer.php:910
+msgid "Primary"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1465
+#: healthcoach/inc/redux-framework/options-init.php:1484
+#: healthcoach/inc/redux-framework/options-init.php:1552
+#: healthcoach/inc/redux-framework/options-init.php:1569
+#: healthcoach/inc/redux-framework/options-init.php:1621
+msgid "Hover - Background Color"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1466
+#: healthcoach/inc/redux-framework/options-init.php:1622
+#: healthcoach/inc/redux-framework/options-init.php:1651
+#: healthcoach/inc/redux-framework/options-init.php:1733
+msgid "Default color site \"Primary Color\""
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1504
+#: healthcoach/inc/redux-framework/options-init.php:1581
+#: healthcoach/inc/redux-framework/options-init.php:1650
+#: healthcoach/inc/redux-framework/options-init.php:1720
+msgid "Color - Regular"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1517
+#: healthcoach/inc/redux-framework/options-init.php:1592
+#: healthcoach/inc/redux-framework/options-init.php:1663
+#: healthcoach/inc/redux-framework/options-init.php:1732
+msgid "Color - Hover and Focus"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1609
+msgid "Primary - Outline"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1634
+#: healthcoach/inc/redux-framework/options-init.php:1688
+msgid "Border"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1635
+msgid "Default Border Color site \"Primary Color\""
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1682
+msgid "Default - Outline"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1753
+msgid "Footer"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1761
+msgid "Enable Banner"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1767
+msgid "Enable Widgets"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1787
+msgid "Color 1"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1804
+msgid "Color 2"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1836
+msgid "Banner"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1845
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/dimensions/field_dimensions.php:178
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:442
+msgid "Height"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1855
+#: healthcoach/inc/visual-composer/visual-composer.php:130
+#: healthcoach/inc/visual-composer/visual-composer.php:361
+msgid "Image"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1877
+#: healthcoach/inc/redux-framework/options-init.php:2059
+#: healthcoach/inc/visual-composer/visual-composer.php:339
+#: healthcoach/inc/visual-composer/visual-composer.php:363
+#: healthcoach/inc/visual-composer/visual-composer.php:412
+#: healthcoach/inc/visual-composer/visual-composer.php:982
+#: healthcoach/inc/visual-composer/visual-composer.php:1623
+#: healthcoach/inc/visual-composer/visual-composer.php:1778
+#: healthcoach/inc/visual-composer/visual-composer.php:2099
+msgid "Text"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1893
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:153
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1899
+msgid "Title Typography"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1918
+msgid "Text Typography"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1940
+msgid "Widget"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1952
+msgid "Widgets Area - Spacing ( Top / Bottom )"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1962
+msgid "Widget Title - Typography"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:1991
+msgid "Widget Title - Spacing ( Bottom )"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:2001
+msgid "Copyright"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:2014
+msgid "Padding (Top/Bottom)"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:2061
+msgid "&copy; 2015 Health Coach | WordPress Theme for a Personal Trainer"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:2075
+msgid "Custom Text"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:2076
+msgid "Text in right side."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:2078
+msgid ""
+"Get Healthy &copy; Fit with <a target=\"_blank\" href=\"http://www."
+"stylemixthemes.com/\">StylemixThemes</a>"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:2093
+msgid "Custom CSS"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:2100
+msgid "CSS Code"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:2101
+msgid "Paste your custom CSS code here."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:2109
+msgid "Live Customizer"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:2117
+msgid "Customizer Enable"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:2126
+msgid "One Click Update"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:2127
+msgid ""
+"Let us notify you when new versions of this theme are live on ThemeForest! "
+"Update with just one button click and forget about manual updates!<br> If "
+"you have any troubles while using auto update ( It is likely to be a "
+"permissions issue ) then you may want to manually update the theme as normal."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:2133
+msgid "ThemeForest Username"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:2135
+msgid ""
+"Enter here your ThemeForest (or Envato) username account (i.e. "
+"Stylemixthemes)."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:2140
+msgid "ThemeForest Secret API Key"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/options-init.php:2142
+msgid ""
+"Enter here the secret api key you have created on ThemeForest. You can "
+"create a new one in the Settings > API Keys section of your profile."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:274
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:276
+msgid "Demo Importer"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:42
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:72
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:84
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:89
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:279
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:256
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:331
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:405
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:427
+msgid "Site does not support widget"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:450
+msgid "Widget already exists"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:499
+msgid "Imported"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:502
+msgid "Imported to Inactive"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:509
+msgid "No Title"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:134
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:143
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:194
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:198
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:511
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1032
+msgid "Import WordPress"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1039
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1054
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1055
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:114
+msgid "Import Demo"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/framework.php:226
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/framework.php:226
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/welcome.php:199
+msgid "Redux Framework"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/framework.php:230
+#: healthcoach/inc/redux-framework/redux-framework/framework.php:234
+msgid "Options"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/framework.php:1742
+msgid "moving the mouse over"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/framework.php:1744
+msgid "clicking"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/framework.php:1748
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/framework.php:1753
+msgid "Hints"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/framework.php:2759
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/framework.php:2768
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/framework.php:2857
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/core/enqueue.php:451
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/customizer/extension_customizer.php:687
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/core/enqueue.php:459
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/customizer/extension_customizer.php:688
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/core/enqueue.php:467
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/core/enqueue.php:475
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/customizer/extension_customizer.php:689
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/core/enqueue.php:482
+msgid "Please Wait"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/core/enqueue.php:493
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/core/enqueue.php:494
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/core/panel.php:141
+msgid "Settings Imported!"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/core/panel.php:184
+msgid "Settings Saved!"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/core/panel.php:212
+msgid "error(s) were found!"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/core/panel.php:312
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/class.redux_admin_notices.php:97
+msgid "Dismiss"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/class.redux_cdn.php:74
+msgid ""
+"Please wait a few minutes, then try refreshing the page. Unable to load some "
+"remotely hosted scripts."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/class.redux_cdn.php:76
+#, php-format
+msgid ""
+"If you are developing offline, please download and install the <a href=\"%s"
+"\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to bypass the "
+"our CDN and avoid this warning"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/class.redux_cdn.php:81
+msgid "Redux Framework Warning"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/class.redux_cdn.php:81
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/class.redux_cdn.php:113
+#, php-format
+msgid ""
+"The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+"installed or not activated and thus, some controls may not render properly.  "
+"Please ensure that it is installed and <a href=\"%s\">activated</a>"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/class.redux_filesystem.php:31
+#: healthcoach/inc/redux-framework/redux-framework/inc/class.redux_filesystem.php:60
+#: healthcoach/inc/redux-framework/redux-framework/inc/class.redux_filesystem.php:260
+msgid "File Permission Issues"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/class.redux_filesystem.php:31
+#, php-format
+msgid ""
+"We were unable to modify required files. Please check your permissions, or "
+"modify your wp-config.php file to contain your FTP login credentials as <a "
+"href=\"%s\" target=\"_blank\">outlined here</a>."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/class.redux_filesystem.php:60
+#: healthcoach/inc/redux-framework/redux-framework/inc/class.redux_filesystem.php:260
+#, php-format
+msgid ""
+"We were unable to modify required files. Please ensure that <code>%1s</code> "
+"has the proper read-write permissions, or modify your wp-config.php file to "
+"contain your FTP login credentials as <a href=\"%2s\" target=\"_blank"
+"\">outlined here</a>."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/class.redux_helpers.php:596
+#, php-format
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/tracking.php:152
+msgid "Getting Started"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/tracking.php:154
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/welcome.php:223
+msgid "Redux Extensions"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/tracking.php:157
+#: healthcoach/woocommerce/myaccount/form-edit-account.php:35
+#: healthcoach/woocommerce/myaccount/form-login.php:75
+msgid "Email address"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/tracking.php:157
+#: healthcoach/inc/visual-composer/visual-composer.php:2209
+#: healthcoach/inc/visual-composer/vc-templates/stm_call_to_action.php:67
+msgid "Subscribe"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/tracking.php:166
+msgid "Close"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/customizer/extension_customizer.php:722
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/customizer/extension_customizer.php:723
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/customizer/extension_customizer.php:724
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/customizer/inc/customizer_panel.php:89
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/customizer/inc/customizer_panel.php:114
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/customizer/inc/customizer_panel.php:142
+#, php-format
+msgid "You are customizing %s"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/customizer/inc/customizer_panel.php:138
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/customizer/inc/customizer_section.php:79
+msgid "Back"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/customizer/inc/customizer_panel.php:146
+msgid "Help"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/customizer/inc/customizer_section.php:122
+msgid "Press return or enter to expand"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/import_export/extension_import_export.php:120
+msgid "Import / Export"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:91
+msgid "Import Options"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:93
+msgid "Import from File"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:93
+msgid "Import from URL"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:96
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:102
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:107
+msgid "Import"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:107
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:111
+msgid "Export Options"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:114
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:121
+msgid "Copy Data"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:122
+msgid "Download Data File"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:123
+msgid "Copy Export URL"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/options_object/extension_options_object.php:82
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/options_object/options_object/field_options_object.php:104
+msgid "Options Object"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/extensions/options_object/options_object/field_options_object.php:107
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:277
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:314
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/media/field_media.php:198
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:126
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:321
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/media/field_media.php:205
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/multi_text/field_multi_text.php:69
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/multi_text/field_multi_text.php:73
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/multi_text/field_multi_text.php:76
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:133
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/border/field_border.php:125
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/border/field_border.php:138
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:215
+#: healthcoach/inc/visual-composer/visual-composer.php:38
+#: healthcoach/inc/visual-composer/visual-composer.php:196
+#: healthcoach/inc/visual-composer/visual-composer.php:1209
+#: healthcoach/inc/visual-composer/visual-composer.php:1669
+msgid "Top"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/border/field_border.php:152
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:229
+#: healthcoach/inc/visual-composer/visual-composer.php:39
+#: healthcoach/inc/visual-composer/visual-composer.php:197
+#: healthcoach/inc/visual-composer/visual-composer.php:1672
+msgid "Bottom"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/border/field_border.php:174
+msgid "Border style"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/dimensions/field_dimensions.php:162
+msgid "Width"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/dimensions/field_dimensions.php:189
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/dimensions/field_dimensions.php:190
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:245
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/link_color/field_link_color.php:99
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/password/field_password.php:62
+#: healthcoach/woocommerce/global/form-login.php:33
+#: healthcoach/woocommerce/myaccount/form-login.php:37
+#: healthcoach/woocommerce/myaccount/form-login.php:81
+msgid "Password"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/password/field_password.php:63
+#: healthcoach/woocommerce/myaccount/form-login.php:69
+msgid "Username"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/select/field_select.php:83
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/select_image/field_select_image.php:63
+msgid "Select an item"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/select/field_select.php:134
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/select_image/field_select_image.php:144
+msgid "No items of this type were found."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:73
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:149
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:204
+#: healthcoach/inc/visual-composer/visual-composer.php:685
+#: healthcoach/inc/visual-composer/visual-composer.php:1227
+#: healthcoach/inc/visual-composer/visual-composer.php:1489
+msgid "Description"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:167
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:258
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:273
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:281
+msgid "Style"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:342
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:343
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:365
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:366
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:388
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:389
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:408
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:409
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:432
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:433
+#: healthcoach/inc/visual-composer/visual-composer.php:749
+#: healthcoach/inc/visual-composer/visual-composer.php:790
+#: healthcoach/inc/visual-composer/visual-composer.php:1929
+msgid "Font Size"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:433
+#: healthcoach/inc/visual-composer/visual-composer.php:814
+#: healthcoach/inc/visual-composer/visual-composer.php:1261
+#: healthcoach/inc/visual-composer/visual-composer.php:1687
+#: healthcoach/inc/visual-composer/visual-composer.php:1719
+#: healthcoach/inc/visual-composer/visual-composer.php:1735
+#: healthcoach/inc/visual-composer/visual-composer.php:1859
+#: healthcoach/inc/visual-composer/visual-composer.php:2195
+msgid "Size"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:441
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:450
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:459
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:478
+msgid "Font Color"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:890
+msgid "Standard Fonts"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:991
+msgid "Google Webfonts"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/themecheck/checks/embedded.php:15
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are "
+"submitting to WordPress.org Theme Repository, it is <strong>strongly</"
+"strong> suggested that you read <a href=\"%s\" target=\"_blank\">this "
+"document</a>, or your theme will be rejected because of Redux."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/themecheck/checks/embedded.php:24
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete "
+"<strong> %s </strong>, or your theme will be rejected by WP.org theme "
+"submission because of Redux."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/themecheck/checks/embedded.php:38
+msgid "Optional"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/themecheck/checks/embedded.php:40
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following "
+"arguments MUST be used for WP.org submissions, or you will be rejected "
+"because of your Redux configuration."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/themecheck/checks/full_package.php:16
+msgid "Redux localization utilities"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/themecheck/checks/full_package.php:17
+msgid "Redux Resting Diles"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/themecheck/checks/full_package.php:18
+msgid "Redux Code Styles"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/themecheck/checks/full_package.php:19
+msgid "Redux Unit Testing"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/themecheck/checks/full_package.php:20
+msgid "Redux Plugin File"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/themecheck/checks/full_package.php:21
+msgid "Redux Boostrap Tests"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/themecheck/checks/full_package.php:22
+msgid "CI Testing FIle"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/themecheck/checks/full_package.php:23
+msgid "PHP Unit Testing"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/themecheck/checks/full_package.php:36
+msgid ""
+"It appears that you have embedded the full Redux package inside your theme. "
+"You need only embed the <strong>ReduxCore</strong> folder. Embedding "
+"anything else will get your rejected from theme submission. Suspected Redux "
+"package file(s):"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/validation/color/validation_color.php:15
+#: healthcoach/inc/redux-framework/redux-framework/inc/validation/color_rgba/validation_color_rgba.php:14
+#: healthcoach/inc/redux-framework/redux-framework/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/validation/css/validation_css.php:39
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/validation/email/validation_email.php:16
+#: healthcoach/inc/redux-framework/redux-framework/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/validation/numeric/validation_numeric.php:16
+#: healthcoach/inc/redux-framework/redux-framework/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/validation/unique_slug/validation_unique_slug.php:16
+#, php-format
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/welcome.php:177
+msgid "Support hash could not be generated. Please try again later."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/welcome.php:199
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/welcome.php:207
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/welcome.php:215
+msgid "Get Support"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/welcome.php:232
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/welcome.php:240
+msgid "Redux Framework Status"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/welcome.php:340
+msgid "What's New"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/welcome.php:343
+msgid "Extensions"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/welcome.php:346
+msgid "Changelog"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/welcome.php:349
+msgid "Credits"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/welcome.php:352
+msgid "Support"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/welcome.php:355
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/welcome.php:512
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/about.php:2
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/about.php:5
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is a huge "
+"step forward in Redux Development. Look at all that's new."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/about.php:8
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/changelog.php:8
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/credits.php:8
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/extensions.php:82
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:31
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/support.php:8
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option "
+"framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/about.php:22
+msgid "Learn More"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/changelog.php:2
+msgid "Redux Framework - Changelog"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/changelog.php:5
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:28
+msgid ""
+"Our core mantra at Redux is backwards compatibility. With hundreds of "
+"thousands of instances worldwide, you can be assured that we will take care "
+"of you and your clients."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/credits.php:2
+msgid "Redux Framework - A Community Effort"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/credits.php:5
+msgid ""
+"We recognize we are nothing without our community. We would like to thank "
+"all of those who help Redux to be what it is. Thank you for your involvement."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/credits.php:15
+#, php-format
+msgid ""
+"Redux is created by a community of developers world wide. Want to have your "
+"name listed too? <a href=\"%d\" target=\"_blank\">Contribute to Redux</a>."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/extensions.php:76
+msgid "Redux Framework - Extensions"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/extensions.php:79
+msgid ""
+"Supercharge your Redux experience. Our extensions provide you with features "
+"that will take your products to the next level."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/extensions.php:88
+msgid ""
+"While some are built specificially for developers, extensions such as Custom "
+"Fonts are sure to make any user happy."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:25
+msgid "Redux Framework - System Status"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:38
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:41
+msgid "Get System Report"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:44
+msgid "Understanding the Status Report"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:51
+msgid "Copied!"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:51
+msgid "Copy for Support"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:60
+msgid "WordPress Environment"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:65
+msgid "Home URL"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:70
+msgid "Site URL"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:75
+msgid "Redux Version"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:80
+msgid "Redux Data Directory Writable"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:88
+#, php-format
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:93
+msgid "WP Content URL"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:102
+msgid "WP Version"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:107
+msgid "WP Multisite"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:116
+msgid "Permalink Structure"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:122
+msgid "Front Page Display"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:131
+msgid "Front Page"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:136
+msgid "Posts Page"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:144
+msgid "WP Memory Limit"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:150
+#, php-format
+msgid ""
+"%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
+"target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:157
+msgid "Database Table Prefix"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:163
+msgid "WP Debug Mode"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:172
+msgid "Language"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:181
+msgid "Browser"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:186
+msgid "Browser Info"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:202
+msgid "Server Environment"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:207
+msgid "Server Info"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:212
+msgid "Localhost Environment"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:223
+msgid "PHP Version"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:228
+msgid "ABSPATH"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:235
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:240
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:245
+msgid "PHP Time Limit"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:250
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:255
+msgid "PHP Display Errors"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:267
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:277
+msgid "MySQL Version"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:282
+msgid "Max Upload Size"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:287
+msgid "Default Timezone is UTC"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:293
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:310
+msgid ""
+"Your server does not have fsockopen or cURL enabled - cURL is used to "
+"communicate with other servers. Please contact your hosting provider."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:349
+msgid "Remote Post"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:355
+msgid ""
+"wp_remote_post() failed. Many advanced features may not function. Contact "
+"your hosting provider."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:358
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:373
+#, php-format
+msgid "Error: %s"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:365
+msgid "Remote Get"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:371
+msgid ""
+"wp_remote_get() failed. This is needed to get information from remote "
+"servers. Contact your hosting provider."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:405
+msgid "Active Plugins"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:421
+msgid "Visit plugin homepage"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:445
+msgid "Redux Instance: "
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:577
+msgid "Theme"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:587
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:593
+msgid "is available"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:598
+msgid "Author URL"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:603
+msgid "Child Theme"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:606
+#, php-format
+msgid ""
+"If you're modifying Redux Framework or a parent theme you didn't build "
+"personally, we recommend using a child theme. See: <a href=\"%s\" target="
+"\"_blank\">How to create a child theme</a>"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:614
+msgid "Parent Theme Name"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:620
+msgid "Parent Theme Version"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:627
+msgid "Parent Theme Author URL"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/support.php:2
+msgid "Redux Framework - Support"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/support.php:5
+msgid ""
+"We are an open source project used by developers to make powerful control "
+"panels."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/support.php:20
+msgid "Generate a Support URL"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/support.php:21
+msgid "Select Support Type"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/support.php:22
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/support.php:65
+msgid "How to Get Support"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/support.php:27
+msgid "Submit a Support Request"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/support.php:30
+msgid "To get started, we will need to generate a support hash."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/support.php:33
+#, php-format
+msgid ""
+"This will provide to your developer all the information they may need to "
+"remedy your issue. This action WILL send information securely to a remote "
+"server. To see the type of information sent, please look at the  <a href=\"%s"
+"\">Status tab</a>."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/support.php:37
+msgid ""
+"Generate\n"
+"                        a Support URL"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/support.php:44
+msgid "Select Your Support Type"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/support.php:47
+msgid "What type of user are you?"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/support.php:52
+msgid "User"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/support.php:53
+msgid "I am a user, using a pre-built product."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/support.php:56
+msgid "Developer"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/support.php:57
+msgid "I am a developer, building a product using Redux."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/support.php:68
+msgid ""
+"Please proceed to the Redux Framework issue tracker and supply us with your "
+"support URL below. Please also provide any information that will help us to "
+"reproduce your issue."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/support.php:74
+msgid ""
+"Listed below are the Wordpress plugins and/or theme installed on your site "
+"that utilize Redux Framework. We do not directly support products created "
+"with our framework.  It is the responsibility of the plugin or theme "
+"developer to support their work. You will need to contact the author(s) of "
+"the products listed below with your support questions."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/support.php:77
+msgid ""
+"Please be sure to include for your developer - via cut and paste - the "
+"Support URL in the box below."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/welcome/views/support.php:215
+#, php-format
+msgid ""
+"Should the developer not be responsive, read the <a href=\"%s\" target="
+"\"_blank\">following article</a> before asking for support from us directly."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/templates/panel/footer.tpl.php:50
+#: healthcoach/inc/redux-framework/redux-framework/templates/panel/header_stickybar.tpl.php:20
+msgid "Save Changes"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/templates/panel/footer.tpl.php:54
+#: healthcoach/inc/redux-framework/redux-framework/templates/panel/header_stickybar.tpl.php:24
+msgid "Reset Section"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/templates/panel/footer.tpl.php:55
+#: healthcoach/inc/redux-framework/redux-framework/templates/panel/header_stickybar.tpl.php:25
+msgid "Reset All"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/templates/panel/footer.tpl.php:60
+#: healthcoach/inc/redux-framework/redux-framework/templates/panel/header_stickybar.tpl.php:28
+msgid "Working..."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:11
+#: healthcoach/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:49
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:58
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr ""
+
+#: healthcoach/inc/redux-framework/redux-framework/templates/panel/header_stickybar.tpl.php:15
+msgid "Expand"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:399
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: healthcoach/inc/tgm/tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: healthcoach/inc/updater/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: healthcoach/inc/updater/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: healthcoach/inc/updater/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: healthcoach/inc/updater/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:20
+#: healthcoach/inc/visual-composer/visual-composer.php:344
+#: healthcoach/inc/visual-composer/visual-composer.php:644
+#: healthcoach/inc/visual-composer/visual-composer.php:935
+#: healthcoach/inc/visual-composer/visual-composer.php:1120
+#: healthcoach/inc/visual-composer/visual-composer.php:1192
+#: healthcoach/inc/visual-composer/visual-composer.php:1275
+#: healthcoach/inc/visual-composer/visual-composer.php:1340
+#: healthcoach/inc/visual-composer/visual-composer.php:1379
+#: healthcoach/inc/visual-composer/visual-composer.php:1416
+#: healthcoach/inc/visual-composer/visual-composer.php:1444
+#: healthcoach/inc/visual-composer/visual-composer.php:1469
+#: healthcoach/inc/visual-composer/visual-composer.php:1499
+#: healthcoach/inc/visual-composer/visual-composer.php:1539
+#: healthcoach/inc/visual-composer/visual-composer.php:1598
+#: healthcoach/inc/visual-composer/visual-composer.php:1750
+#: healthcoach/inc/visual-composer/visual-composer.php:1948
+#: healthcoach/inc/visual-composer/visual-composer.php:1987
+#: healthcoach/inc/visual-composer/visual-composer.php:2011
+#: healthcoach/inc/visual-composer/visual-composer.php:2054
+#: healthcoach/inc/visual-composer/visual-composer.php:2073
+#: healthcoach/inc/visual-composer/visual-composer.php:2156
+#: healthcoach/inc/visual-composer/visual-composer.php:2180
+#: healthcoach/inc/visual-composer/visual-composer.php:2201
+#: healthcoach/inc/visual-composer/visual-composer.php:2221
+msgid "Css"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:22
+#: healthcoach/inc/visual-composer/visual-composer.php:346
+#: healthcoach/inc/visual-composer/visual-composer.php:646
+#: healthcoach/inc/visual-composer/visual-composer.php:937
+#: healthcoach/inc/visual-composer/visual-composer.php:1122
+#: healthcoach/inc/visual-composer/visual-composer.php:1194
+#: healthcoach/inc/visual-composer/visual-composer.php:1277
+#: healthcoach/inc/visual-composer/visual-composer.php:1342
+#: healthcoach/inc/visual-composer/visual-composer.php:1381
+#: healthcoach/inc/visual-composer/visual-composer.php:1388
+#: healthcoach/inc/visual-composer/visual-composer.php:1418
+#: healthcoach/inc/visual-composer/visual-composer.php:1446
+#: healthcoach/inc/visual-composer/visual-composer.php:1471
+#: healthcoach/inc/visual-composer/visual-composer.php:1501
+#: healthcoach/inc/visual-composer/visual-composer.php:1541
+#: healthcoach/inc/visual-composer/visual-composer.php:1600
+#: healthcoach/inc/visual-composer/visual-composer.php:1752
+#: healthcoach/inc/visual-composer/visual-composer.php:1950
+#: healthcoach/inc/visual-composer/visual-composer.php:1989
+#: healthcoach/inc/visual-composer/visual-composer.php:2013
+#: healthcoach/inc/visual-composer/visual-composer.php:2056
+#: healthcoach/inc/visual-composer/visual-composer.php:2158
+#: healthcoach/inc/visual-composer/visual-composer.php:2182
+#: healthcoach/inc/visual-composer/visual-composer.php:2203
+#: healthcoach/inc/visual-composer/visual-composer.php:2223
+msgid "Design options"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:29
+msgid "Show"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:31
+#: healthcoach/inc/visual-composer/visual-composer.php:41
+#: healthcoach/inc/visual-composer/visual-composer.php:48
+#: healthcoach/inc/visual-composer/visual-composer.php:55
+#: healthcoach/inc/visual-composer/visual-composer.php:67
+#: healthcoach/inc/visual-composer/visual-composer.php:77
+#: healthcoach/inc/visual-composer/visual-composer.php:87
+#: healthcoach/inc/visual-composer/visual-composer.php:97
+#: healthcoach/inc/visual-composer/visual-composer.php:104
+#: healthcoach/inc/visual-composer/visual-composer.php:111
+#: healthcoach/inc/visual-composer/visual-composer.php:118
+msgid "Bump"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:35
+#: healthcoach/inc/visual-composer/visual-composer.php:193
+msgid "Position"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:46
+msgid "Offset"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:60
+#: healthcoach/inc/visual-composer/visual-composer.php:137
+#: healthcoach/inc/visual-composer/visual-composer.php:286
+#: healthcoach/inc/visual-composer/visual-composer.php:374
+#: healthcoach/inc/visual-composer/visual-composer.php:1628
+#: healthcoach/inc/visual-composer/visual-composer.php:1784
+#: healthcoach/inc/visual-composer/visual-composer.php:1873
+msgid "Icon - Type"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:63
+#: healthcoach/inc/visual-composer/visual-composer.php:140
+#: healthcoach/inc/visual-composer/visual-composer.php:289
+#: healthcoach/inc/visual-composer/visual-composer.php:377
+#: healthcoach/inc/visual-composer/visual-composer.php:1631
+#: healthcoach/inc/visual-composer/visual-composer.php:1787
+#: healthcoach/inc/visual-composer/visual-composer.php:1876
+msgid "Health Coach"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:64
+#: healthcoach/inc/visual-composer/visual-composer.php:141
+#: healthcoach/inc/visual-composer/visual-composer.php:290
+#: healthcoach/inc/visual-composer/visual-composer.php:378
+#: healthcoach/inc/visual-composer/visual-composer.php:1632
+#: healthcoach/inc/visual-composer/visual-composer.php:1788
+#: healthcoach/inc/visual-composer/visual-composer.php:1877
+msgid "Font Awesome"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:65
+#: healthcoach/inc/visual-composer/visual-composer.php:291
+#: healthcoach/inc/visual-composer/visual-composer.php:379
+#: healthcoach/inc/visual-composer/visual-composer.php:1633
+#: healthcoach/inc/visual-composer/visual-composer.php:1789
+#: healthcoach/inc/visual-composer/visual-composer.php:1878
+msgid "Linear Icons"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:72
+#: healthcoach/inc/visual-composer/visual-composer.php:149
+#: healthcoach/inc/visual-composer/visual-composer.php:296
+#: healthcoach/inc/visual-composer/visual-composer.php:385
+#: healthcoach/inc/visual-composer/visual-composer.php:1638
+#: healthcoach/inc/visual-composer/visual-composer.php:1794
+#: healthcoach/inc/visual-composer/visual-composer.php:1885
+msgid "Icon - Health Coach"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:82
+#: healthcoach/inc/visual-composer/visual-composer.php:159
+#: healthcoach/inc/visual-composer/visual-composer.php:305
+#: healthcoach/inc/visual-composer/visual-composer.php:394
+#: healthcoach/inc/visual-composer/visual-composer.php:1647
+#: healthcoach/inc/visual-composer/visual-composer.php:1803
+#: healthcoach/inc/visual-composer/visual-composer.php:1895
+msgid "Icon - Font Awesome"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:92
+#: healthcoach/inc/visual-composer/visual-composer.php:169
+#: healthcoach/inc/visual-composer/visual-composer.php:314
+#: healthcoach/inc/visual-composer/visual-composer.php:403
+#: healthcoach/inc/visual-composer/visual-composer.php:1656
+#: healthcoach/inc/visual-composer/visual-composer.php:1812
+#: healthcoach/inc/visual-composer/visual-composer.php:1905
+msgid "Icon - Linearicons"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:102
+msgid "Icon - Spacing"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:109
+#: healthcoach/inc/visual-composer/visual-composer.php:179
+#: healthcoach/inc/visual-composer/visual-composer.php:323
+#: healthcoach/inc/visual-composer/visual-composer.php:596
+#: healthcoach/inc/visual-composer/visual-composer.php:1821
+#: healthcoach/inc/visual-composer/visual-composer.php:1915
+msgid "Icon - Color"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:116
+#: healthcoach/inc/visual-composer/visual-composer.php:186
+#: healthcoach/inc/visual-composer/visual-composer.php:328
+#: healthcoach/inc/visual-composer/visual-composer.php:1826
+#: healthcoach/inc/visual-composer/visual-composer.php:1922
+msgid "Icon - Size"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:131
+msgid "Line"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:133
+#: healthcoach/inc/visual-composer/visual-composer.php:144
+#: healthcoach/inc/visual-composer/visual-composer.php:154
+#: healthcoach/inc/visual-composer/visual-composer.php:164
+#: healthcoach/inc/visual-composer/visual-composer.php:174
+#: healthcoach/inc/visual-composer/visual-composer.php:181
+#: healthcoach/inc/visual-composer/visual-composer.php:188
+#: healthcoach/inc/visual-composer/visual-composer.php:199
+#: healthcoach/inc/visual-composer/visual-composer.php:205
+#: healthcoach/inc/visual-composer/visual-composer.php:212
+#: healthcoach/inc/visual-composer/visual-composer.php:1005
+#: healthcoach/inc/visual-composer/visual-composer.php:1013
+#: healthcoach/inc/visual-composer/visual-composer.php:1020
+msgid "Separator"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:142
+msgid "Linearicons"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:203
+msgid "Spacing Top"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:210
+msgid "Spacing Bottom"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:258
+msgid "Info Box"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:260
+#: healthcoach/inc/visual-composer/visual-composer.php:354
+#: healthcoach/inc/visual-composer/visual-composer.php:654
+#: healthcoach/inc/visual-composer/visual-composer.php:945
+#: healthcoach/inc/visual-composer/visual-composer.php:1142
+#: healthcoach/inc/visual-composer/visual-composer.php:1202
+#: healthcoach/inc/visual-composer/visual-composer.php:1296
+#: healthcoach/inc/visual-composer/visual-composer.php:1361
+#: healthcoach/inc/visual-composer/visual-composer.php:1396
+#: healthcoach/inc/visual-composer/visual-composer.php:1434
+#: healthcoach/inc/visual-composer/visual-composer.php:1509
+#: healthcoach/inc/visual-composer/visual-composer.php:1559
+#: healthcoach/inc/visual-composer/visual-composer.php:2065
+#: healthcoach/inc/visual-composer/visual-composer.php:2110
+#: healthcoach/inc/visual-composer/visual-composer.php:2166
+#: healthcoach/inc/visual-composer/visual-composer.php:2191
+#: healthcoach/inc/visual-composer/visual-composer.php:2212
+msgid "STM"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:268
+msgid "Boxed"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:269
+msgid "Boxed ( Hidden Description )"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:274
+msgid "Box - Height"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:280
+msgid "Featured"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:352
+msgid "Icon Box"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:358
+#: healthcoach/inc/visual-composer/visual-composer.php:658
+msgid "Icon Type:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:368
+#: healthcoach/inc/visual-composer/visual-composer.php:661
+#: healthcoach/inc/visual-composer/visual-composer.php:667
+msgid "Custom Image"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:424
+#: healthcoach/inc/visual-composer/visual-composer.php:690
+msgid "Box Style:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:427
+#: healthcoach/inc/visual-composer/visual-composer.php:693
+msgid "Icon Top"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:428
+#: healthcoach/inc/visual-composer/visual-composer.php:694
+msgid "Icon Left"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:429
+#: healthcoach/inc/visual-composer/visual-composer.php:695
+msgid "Icon Right"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:434
+msgid "Text - Margin Bottom"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:437
+#: healthcoach/inc/visual-composer/visual-composer.php:582
+msgid "Example: 22px, 1.5em"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:443
+#: healthcoach/inc/visual-composer/visual-composer.php:701
+msgid "Text Align:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:446
+#: healthcoach/inc/visual-composer/visual-composer.php:704
+msgid "Center"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:454
+msgid "Text - Font Weight:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:457
+#: healthcoach/inc/visual-composer/visual-composer.php:606
+#: healthcoach/inc/visual-composer/visual-composer.php:740
+#: healthcoach/inc/visual-composer/visual-composer.php:781
+#: healthcoach/inc/visual-composer/visual-composer.php:1027
+#: healthcoach/inc/visual-composer/visual-composer.php:1055
+#: healthcoach/inc/visual-composer/visual-composer.php:1081
+msgid "Normal"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:458
+#: healthcoach/inc/visual-composer/visual-composer.php:607
+#: healthcoach/inc/visual-composer/visual-composer.php:741
+#: healthcoach/inc/visual-composer/visual-composer.php:782
+#: healthcoach/inc/visual-composer/visual-composer.php:1028
+#: healthcoach/inc/visual-composer/visual-composer.php:1056
+#: healthcoach/inc/visual-composer/visual-composer.php:1082
+msgid "Light"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:459
+#: healthcoach/inc/visual-composer/visual-composer.php:608
+#: healthcoach/inc/visual-composer/visual-composer.php:742
+#: healthcoach/inc/visual-composer/visual-composer.php:783
+#: healthcoach/inc/visual-composer/visual-composer.php:1029
+#: healthcoach/inc/visual-composer/visual-composer.php:1054
+#: healthcoach/inc/visual-composer/visual-composer.php:1083
+msgid "Bold"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:460
+#: healthcoach/inc/visual-composer/visual-composer.php:609
+#: healthcoach/inc/visual-composer/visual-composer.php:743
+#: healthcoach/inc/visual-composer/visual-composer.php:784
+#: healthcoach/inc/visual-composer/visual-composer.php:1030
+#: healthcoach/inc/visual-composer/visual-composer.php:1057
+#: healthcoach/inc/visual-composer/visual-composer.php:1084
+msgid "Black"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:467
+msgid "Text - Font Size"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:470
+msgid "Example: 36px, 1.5em"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:476
+msgid "Text - Color"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:484
+msgid "Text Circle - Size"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:487
+#: healthcoach/inc/visual-composer/visual-composer.php:526
+msgid "Example: 133px, 1.5em"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:493
+msgid "Text Circle - Border:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:496
+#: healthcoach/inc/visual-composer/visual-composer.php:544
+#: healthcoach/inc/visual-composer/visual-composer.php:832
+#: healthcoach/inc/visual-composer/visual-composer.php:880
+#: healthcoach/inc/visual-composer/visual-composer.php:1003
+#: healthcoach/inc/visual-composer/visual-composer.php:2117
+msgid "Solid"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:497
+#: healthcoach/inc/visual-composer/visual-composer.php:545
+#: healthcoach/inc/visual-composer/visual-composer.php:834
+#: healthcoach/inc/visual-composer/visual-composer.php:882
+#: healthcoach/inc/visual-composer/visual-composer.php:1002
+#: healthcoach/inc/visual-composer/visual-composer.php:2118
+msgid "Dashed"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:498
+#: healthcoach/inc/visual-composer/visual-composer.php:546
+#: healthcoach/inc/visual-composer/visual-composer.php:833
+#: healthcoach/inc/visual-composer/visual-composer.php:881
+#: healthcoach/inc/visual-composer/visual-composer.php:1001
+#: healthcoach/inc/visual-composer/visual-composer.php:2119
+msgid "Dotted"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:499
+#: healthcoach/inc/visual-composer/visual-composer.php:854
+#: healthcoach/inc/visual-composer/visual-composer.php:911
+msgid "Custom"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:506
+msgid "Text Circle -  Border Width"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:509
+#: healthcoach/inc/visual-composer/visual-composer.php:556
+msgid "Example: 2px, 1.5em"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:515
+msgid "Text - Border Color:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:523
+msgid "Icon Circle - Size:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:532
+msgid "Icon Circle - Background Color:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:540
+msgid "Icon Circle - Border:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:543
+#: healthcoach/inc/visual-composer/visual-composer.php:835
+#: healthcoach/inc/visual-composer/visual-composer.php:883
+#: healthcoach/inc/visual-composer/visual-composer.php:2120
+msgid "None"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:553
+msgid "Icon Circle -  Border Width:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:562
+msgid "Icon - Border Color:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:570
+msgid "Icon - Min Height"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:573
+msgid "Example: 67px, 1.5em"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:579
+msgid "Icon - Margin Bottom"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:588
+msgid "Icon - Font Size"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:590
+#: healthcoach/inc/visual-composer/visual-composer.php:816
+msgid "Example: 40px, 1.5em"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:603
+#: healthcoach/inc/visual-composer/visual-composer.php:1024
+msgid "Title - Font Weight:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:615
+#: healthcoach/inc/visual-composer/visual-composer.php:1036
+msgid "Title - Font Size"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:617
+#: healthcoach/inc/visual-composer/visual-composer.php:751
+#: healthcoach/inc/visual-composer/visual-composer.php:1039
+msgid "Example: 28px, 1em"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:622
+#: healthcoach/inc/visual-composer/visual-composer.php:1044
+msgid "Title - Color"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:628
+msgid "Title - Padding Left"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:630
+#: healthcoach/inc/visual-composer/visual-composer.php:639
+#: healthcoach/inc/visual-composer/visual-composer.php:764
+#: healthcoach/inc/visual-composer/visual-composer.php:773
+msgid "Example: 38px, 2em"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:631
+#: healthcoach/inc/visual-composer/visual-composer.php:638
+msgid "Padding / Margin"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:636
+msgid "Title - Padding Right"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:652
+msgid "STM Info Box"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:662
+#: healthcoach/inc/visual-composer/visual-composer.php:673
+msgid "Font Icon"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:696
+msgid "Icon Between Title & Content"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:711
+msgid "Featured:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:716
+#: healthcoach/inc/visual-composer/visual-composer.php:805
+#: healthcoach/inc/visual-composer/visual-composer.php:926
+msgid "Margin Bottom"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:719
+#: healthcoach/inc/visual-composer/visual-composer.php:808
+msgid "Example: 16px, 2em"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:720
+#: healthcoach/inc/visual-composer/visual-composer.php:733
+#: healthcoach/inc/visual-composer/visual-composer.php:745
+#: healthcoach/inc/visual-composer/visual-composer.php:752
+#: healthcoach/inc/visual-composer/visual-composer.php:758
+#: healthcoach/inc/visual-composer/visual-composer.php:765
+#: healthcoach/inc/visual-composer/visual-composer.php:772
+msgid "Title Options"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:724
+msgid "Tag:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:727
+msgid "h3"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:728
+msgid "div"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:729
+msgid "h1"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:730
+msgid "h2"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:731
+msgid "h4"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:737
+#: healthcoach/inc/visual-composer/visual-composer.php:778
+msgid "Font Weight:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:762
+msgid "Padding Left"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:770
+msgid "Padding Right"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:786
+#: healthcoach/inc/visual-composer/visual-composer.php:794
+#: healthcoach/inc/visual-composer/visual-composer.php:801
+msgid "Description Options"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:793
+msgid "Example: 14px, em"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:810
+#: healthcoach/inc/visual-composer/visual-composer.php:818
+#: healthcoach/inc/visual-composer/visual-composer.php:824
+#: healthcoach/inc/visual-composer/visual-composer.php:837
+#: healthcoach/inc/visual-composer/visual-composer.php:846
+#: healthcoach/inc/visual-composer/visual-composer.php:857
+#: healthcoach/inc/visual-composer/visual-composer.php:865
+#: healthcoach/inc/visual-composer/visual-composer.php:873
+#: healthcoach/inc/visual-composer/visual-composer.php:1674
+#: healthcoach/inc/visual-composer/visual-composer.php:1682
+#: healthcoach/inc/visual-composer/visual-composer.php:1690
+#: healthcoach/inc/visual-composer/visual-composer.php:1698
+#: healthcoach/inc/visual-composer/visual-composer.php:1706
+msgid "Icon Options"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:829
+#: healthcoach/inc/visual-composer/visual-composer.php:998
+#: healthcoach/inc/visual-composer/visual-composer.php:2114
+msgid "Border:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:841
+msgid "Border Width:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:843
+msgid "Example: 6px, em"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:850
+msgid "Border Color Type:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:861
+msgid "Border Color:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:869
+msgid "Border Radius:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:871
+msgid "Example: 25px, em, 50%"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:877
+msgid "Style:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:885
+#: healthcoach/inc/visual-composer/visual-composer.php:894
+#: healthcoach/inc/visual-composer/visual-composer.php:903
+#: healthcoach/inc/visual-composer/visual-composer.php:914
+#: healthcoach/inc/visual-composer/visual-composer.php:922
+#: healthcoach/inc/visual-composer/visual-composer.php:931
+msgid "Separator Options"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:889
+msgid "Width:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:891
+msgid "Example: 63px, em"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:898
+msgid "Height:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:900
+msgid "Example: 1px, em"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:907
+msgid "Color Type:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:918
+msgid "Color:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:929
+msgid "Example: 17px, 2em"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:943
+msgid "Pricing Table"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:955
+#: healthcoach/woocommerce/cart/cart.php:27
+msgid "Price"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:957
+msgid "Example: $29.99"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:961
+msgid "Price Description"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:963
+msgid "Example: Per day"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:967
+msgid "Content"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:972
+#: healthcoach/inc/visual-composer/visual-composer.php:1772
+#: healthcoach/inc/visual-composer/visual-composer.php:1833
+#: healthcoach/inc/visual-composer/visual-composer.php:1840
+msgid "Button"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:977
+msgid "Label:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:986
+#: healthcoach/inc/visual-composer/visual-composer.php:994
+msgid "Label"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1009
+msgid "Border Width"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1012
+msgid "Example: 1px, 2em"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1017
+msgid "Border Color"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1051
+msgid "Price - Font Weight:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1063
+#: healthcoach/inc/visual-composer/visual-composer.php:1090
+msgid "Price - Font Size"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1066
+msgid "Example: 42px, 2em"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1071
+msgid "Price - Color"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1078
+msgid "Price Description - Font Weight:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1093
+#: healthcoach/inc/visual-composer/visual-composer.php:1108
+msgid "Example: 14px, 2em"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1098
+msgid "Price Description - Color"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1105
+msgid "Content - Font Size"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1113
+msgid "Content - Color"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1131
+#: healthcoach/inc/visual-composer/visual-composer.php:1285
+#: healthcoach/inc/visual-composer/visual-composer.php:2023
+msgid "Select category"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1136
+#: healthcoach/inc/visual-composer/visual-composer.php:1290
+#: healthcoach/inc/visual-composer/visual-composer.php:2028
+msgid "No categories"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1140
+msgid "Services"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1146
+msgid "Type:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1149
+msgid "Recent"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1150
+msgid "Archive"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1156
+msgid "Columns:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1166
+msgid "Thumbnail Size:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1168
+msgid "Default size: 350x258, Example: 500x500"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1172
+msgid "Categories:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1175
+#: healthcoach/inc/visual-composer/visual-composer.php:1182
+#: healthcoach/inc/visual-composer/visual-composer.php:1322
+#: healthcoach/inc/visual-composer/visual-composer.php:1329
+#: healthcoach/inc/visual-composer/visual-composer.php:1336
+#: healthcoach/inc/visual-composer/visual-composer.php:2043
+#: healthcoach/inc/visual-composer/visual-composer.php:2050
+msgid "Query settings"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1179
+#: healthcoach/inc/widgets/widgets.php:459
+msgid "Count:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1181
+msgid "Leave empty for display all services"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1187
+msgid "Pagination"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1200
+msgid "Stats Counter"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1206
+msgid "Counter Position"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1216
+msgid "Value"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1221
+msgid "Duration"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1233
+msgid "Description Color"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1240
+msgid "Description Font Size"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1247
+msgid "Value Color"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1254
+msgid "Value Font Size"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1264
+#: healthcoach/inc/visual-composer/visual-composer.php:1271
+msgid "Value Container"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1268
+msgid "Border - color"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1294
+#: healthcoach/inc/visual-composer/visual-composer.php:1452
+#: healthcoach/inc/visual-composer/vc-templates/vc_wp_posts.php:4
+msgid "Recent Posts"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1300
+msgid "Columns per row"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1310
+msgid "Thumbnail Size"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1312
+msgid "Default size: 350x270; Example: 500x500"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1316
+msgid "Post format"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1319
+msgid "Standard"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1320
+msgid "Video"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1326
+msgid "Post categories"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1333
+msgid "Post count"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1335
+msgid "Leave empty for display all posts"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1355
+msgid "No contact forms found"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1359
+msgid "Contact Form 7"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1365
+msgid "Form title"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1367
+msgid "What text use as form title. Leave blank if no title is needed."
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1371
+msgid "Select contact form"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1375
+msgid "Choose previously created contact form from the drop down list."
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1385
+msgid "Border Radius"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1387
+msgid ""
+"1.Top Left, 2.Top Right, 3.Bottom Right, 4.Bottom Left. Example: 9px;9px;0;0"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1394
+msgid "Events"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1400
+msgid "View"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1409
+msgid "Posts Per Page"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1412
+msgid ""
+"Default value set from Wordpress \"General->Reading->Blog pages show at most"
+"\""
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1424
+msgid "Select"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1432
+msgid "STM Sidebar"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1438
+msgid "Sidebars"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1454
+#: healthcoach/inc/visual-composer/visual-composer.php:1479
+msgid "STM Widgets"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1464
+#: healthcoach/inc/visual-composer/visual-composer.php:1569
+msgid "Count"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1477
+#: healthcoach/inc/visual-composer/visual-composer.php:2163
+msgid "Countdown"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1494
+#: healthcoach/inc/visual-composer/visual-composer.php:2175
+#: healthcoach/inc/widgets/widgets.php:337
+msgid "Date"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1507
+msgid "Contact Information"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1519
+#: healthcoach/inc/widgets/widgets.php:345
+msgid "Time"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1524
+msgid "Address"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1534
+msgid "Phone, Fax"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1557
+msgid "Qualification - Carousel"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1563
+#: healthcoach/inc/visual-composer/vc-templates/vc_wp_categories.php:4
+#: healthcoach/inc/widgets/widgets.php:351
+msgid "Categories"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1574
+msgid "Title Font Size"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1581
+msgid "Title Color"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1588
+msgid "Navigation - Bullets"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1594
+msgid "Carousel Settings"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1607
+msgid "Testimonial"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1616
+msgid "Author"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1666
+msgid "Place:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1689
+#: healthcoach/inc/visual-composer/visual-composer.php:1721
+#: healthcoach/inc/visual-composer/visual-composer.php:1737
+msgid "Example: 14px, em, %"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1695
+#: healthcoach/inc/visual-composer/visual-composer.php:1743
+#: healthcoach/inc/visual-composer/visual-composer.php:1941
+msgid "Margin"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1697
+#: healthcoach/inc/visual-composer/visual-composer.php:1705
+#: healthcoach/inc/visual-composer/visual-composer.php:1745
+msgid "1. Top, 2. Right, 3. Bottom, 4. Left. Example: 10px,15px,12px,0px"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1703
+msgid "Padding"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1714
+#: healthcoach/inc/visual-composer/visual-composer.php:1722
+msgid "Author Options"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1730
+#: healthcoach/inc/visual-composer/visual-composer.php:1738
+#: healthcoach/inc/visual-composer/visual-composer.php:1746
+msgid "Text Options"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1760
+msgid "Call To Action"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1771
+msgid "Subscribe Form"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1773
+#: healthcoach/inc/visual-composer/visual-composer.php:1845
+#: healthcoach/inc/visual-composer/visual-composer.php:1847
+#: healthcoach/inc/visual-composer/visual-composer.php:1854
+#: healthcoach/inc/visual-composer/visual-composer.php:1861
+#: healthcoach/inc/visual-composer/visual-composer.php:1868
+#: healthcoach/inc/visual-composer/visual-composer.php:1880
+#: healthcoach/inc/visual-composer/visual-composer.php:1890
+#: healthcoach/inc/visual-composer/visual-composer.php:1900
+#: healthcoach/inc/visual-composer/visual-composer.php:1910
+#: healthcoach/inc/visual-composer/visual-composer.php:1917
+#: healthcoach/inc/visual-composer/visual-composer.php:1924
+msgid "Link"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1831
+msgid "Button 1"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1838
+msgid "Button 2"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1931
+#: healthcoach/inc/visual-composer/visual-composer.php:1937
+#: healthcoach/inc/visual-composer/visual-composer.php:1943
+msgid "Text style"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1944
+msgid "1.Top, 2.Right, 3.Bottom, 4.Left; Example: 3px,5px,3px,10px"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1958
+msgid "Image Gallery"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1966
+msgid "Images"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1971
+msgid "Image Size"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1977
+msgid "Columns"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:1997
+msgid "Testimonials - Grid"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:2005
+msgid "Testimonials Per Page"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:2007
+msgid "Example: 3"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:2033
+msgid "Testimonials - Slider"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:2041
+msgid "Testimonials count"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:2047
+msgid "Testimonials categories"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:2063
+msgid "Personal Info"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:2082
+msgid "Personal Info Item"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:2107
+msgid "Personal Result - Photo"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:2122
+#: healthcoach/inc/visual-composer/visual-composer.php:2130
+#: healthcoach/inc/visual-composer/visual-composer.php:2137
+msgid "Image options"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:2127
+msgid "Border - Width:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:2129
+msgid "Example: 2px, em, %"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:2135
+msgid "Border - Color:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:2142
+msgid "Title - Font size:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:2144
+#: healthcoach/inc/visual-composer/visual-composer.php:2151
+msgid "Caption options"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:2149
+msgid "Title - Color:"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:2188
+msgid "Thumbnail"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/visual-composer.php:2197
+msgid "Example: 382x374"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/vc-templates/stm_call_to_action.php:68
+msgid "Enter your e-mail address"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/vc-templates/stm_countdown.php:34
+msgid "Days"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/vc-templates/stm_countdown.php:35
+msgid "Hours"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/vc-templates/stm_countdown.php:36
+msgid "Minutes"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/vc-templates/stm_countdown.php:37
+msgid "Seconds"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/vc-templates/stm_countdown.php:44
+msgid "This offer has expired!"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/vc-templates/stm_personal_result_photo.php:73
+#: healthcoach/inc/visual-composer/vc-templates/stm_testimonials_slider.php:50
+msgid "Before"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/vc-templates/stm_personal_result_photo.php:83
+#: healthcoach/inc/visual-composer/vc-templates/stm_testimonials_slider.php:54
+msgid "After"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/vc-templates/vc_wp_archives.php:4
+msgid "Archives"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/vc-templates/vc_wp_meta.php:4
+msgid "Meta"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/vc-templates/vc_wp_recentcomments.php:4
+msgid "Recent Comments"
+msgstr ""
+
+#: healthcoach/inc/visual-composer/vc-templates/vc_wp_tagcloud.php:4
+msgid "Tags"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:5
+msgid "STM Event Info"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:7
+msgid "Event Info"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:21
+msgid "People attended the event"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:26
+#: healthcoach/inc/widgets/widgets.php:28
+msgid "Join"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:84
+msgid "Info"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:87
+#: healthcoach/inc/widgets/widgets.php:151
+#: healthcoach/inc/widgets/widgets.php:311
+#: healthcoach/inc/widgets/widgets.php:381
+#: healthcoach/inc/widgets/widgets.php:457
+#: healthcoach/inc/widgets/widgets.php:529
+#: healthcoach/inc/widgets/widgets.php:604
+msgid "Title:"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:96
+msgid "A list of your site&#8217;s Pages."
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:97
+msgid "STM Pages"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:153
+msgid "Sort by:"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:155
+msgid "Page title"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:156
+msgid "Page order"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:157
+msgid "Page ID"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:161
+msgid "Include:"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:163
+msgid "Page IDs, separated by commas."
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:173
+msgid "STM Event Contacts"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:175
+msgid "Event Contacts Info"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:204
+msgid "View on map"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:307
+msgid "Venue"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:313
+#: healthcoach/inc/widgets/widgets.php:612
+msgid "Email:"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:322
+msgid "STM Event Details"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:324
+msgid "Event Details"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:378
+msgid "Details"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:390
+msgid "STM Recent Posts"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:392
+msgid "Recent posts"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:469
+msgid "STM About"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:471
+msgid "About info"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:531
+msgid "Text:"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:533
+msgid "Facebook:"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:535
+msgid "Twitter:"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:537
+msgid "Instagram:"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:539
+msgid "Custom Icon:"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:541
+msgid "Custom Url:"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:551
+msgid "STM Contact"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:553
+msgid "Contact info"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:570
+msgid "Tel"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:573
+msgid "Fax"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:606
+msgid "Address:"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:608
+msgid "Telephone Number:"
+msgstr ""
+
+#: healthcoach/inc/widgets/widgets.php:610
+msgid "Fax Number:"
+msgstr ""
+
+#: healthcoach/parts/subscribe-bar.php:6
+msgid "Subscribe for special offers"
+msgstr ""
+
+#: healthcoach/woocommerce/single-product-reviews.php:40
+msgid "There are no reviews yet."
+msgstr ""
+
+#: healthcoach/woocommerce/single-product-reviews.php:53
+msgid "Add a review"
+msgstr ""
+
+#: healthcoach/woocommerce/single-product-reviews.php:53
+msgid "Be the first to review"
+msgstr ""
+
+#: healthcoach/woocommerce/single-product-reviews.php:54
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: healthcoach/woocommerce/single-product-reviews.php:61
+msgid "E-mail"
+msgstr ""
+
+#: healthcoach/woocommerce/single-product-reviews.php:63
+msgid "Add review"
+msgstr ""
+
+#: healthcoach/woocommerce/single-product-reviews.php:72
+msgid "Rate&hellip;"
+msgstr ""
+
+#: healthcoach/woocommerce/single-product-reviews.php:73
+msgid "Perfect"
+msgstr ""
+
+#: healthcoach/woocommerce/single-product-reviews.php:74
+msgid "Good"
+msgstr ""
+
+#: healthcoach/woocommerce/single-product-reviews.php:75
+msgid "Average"
+msgstr ""
+
+#: healthcoach/woocommerce/single-product-reviews.php:76
+msgid "Not that bad"
+msgstr ""
+
+#: healthcoach/woocommerce/single-product-reviews.php:77
+msgid "Very Poor"
+msgstr ""
+
+#: healthcoach/woocommerce/single-product-reviews.php:88
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: healthcoach/woocommerce/cart/cart-empty.php:18
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: healthcoach/woocommerce/cart/cart-empty.php:22
+msgid "Return To Shop"
+msgstr ""
+
+#: healthcoach/woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+#: healthcoach/woocommerce/cart/cart-totals.php:46
+msgid "Shipping"
+msgstr ""
+
+#: healthcoach/woocommerce/cart/cart-totals.php:78
+msgid "Order total"
+msgstr ""
+
+#: healthcoach/woocommerce/cart/cart-totals.php:95
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: healthcoach/woocommerce/cart/cart-totals.php:98
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: healthcoach/woocommerce/cart/cart.php:17
+msgid "Shoping cart"
+msgstr ""
+
+#: healthcoach/woocommerce/cart/cart.php:26
+msgid "Product name"
+msgstr ""
+
+#: healthcoach/woocommerce/cart/cart.php:28
+msgid "Quantity"
+msgstr ""
+
+#: healthcoach/woocommerce/cart/cart.php:29
+#: healthcoach/woocommerce/checkout/review-order.php:22
+#: healthcoach/woocommerce/checkout/review-order.php:99
+msgid "Total"
+msgstr ""
+
+#: healthcoach/woocommerce/cart/cart.php:46
+#: healthcoach/woocommerce/cart/mini-cart.php:36
+msgid "Remove this item"
+msgstr ""
+
+#: healthcoach/woocommerce/cart/cart.php:117
+msgid "Coupon"
+msgstr ""
+
+#: healthcoach/woocommerce/cart/cart.php:117
+#: healthcoach/woocommerce/checkout/form-coupon.php:27
+msgid "Coupon code"
+msgstr ""
+
+#: healthcoach/woocommerce/cart/cart.php:117
+#: healthcoach/woocommerce/checkout/form-coupon.php:32
+msgid "Apply Coupon"
+msgstr ""
+
+#: healthcoach/woocommerce/cart/cart.php:123
+msgid "Update Cart"
+msgstr ""
+
+#: healthcoach/woocommerce/cart/mini-cart.php:68
+msgid "View Cart"
+msgstr ""
+
+#: healthcoach/woocommerce/checkout/form-billing.php:19
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: healthcoach/woocommerce/checkout/form-billing.php:23
+msgid "Billing Details"
+msgstr ""
+
+#: healthcoach/woocommerce/checkout/form-billing.php:42
+msgid "Create an account?"
+msgstr ""
+
+#: healthcoach/woocommerce/checkout/form-billing.php:53
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: healthcoach/woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: healthcoach/woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr ""
+
+#: healthcoach/woocommerce/checkout/form-coupon.php:18
+msgid "Click here to enter your code"
+msgstr ""
+
+#: healthcoach/woocommerce/checkout/form-login.php:18
+msgid "Returning customer?"
+msgstr ""
+
+#: healthcoach/woocommerce/checkout/form-login.php:19
+msgid "Click here to login"
+msgstr ""
+
+#: healthcoach/woocommerce/checkout/form-login.php:26
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: healthcoach/woocommerce/checkout/form-shipping.php:31
+msgid "Ship to a different address?"
+msgstr ""
+
+#: healthcoach/woocommerce/checkout/form-shipping.php:34
+msgid "Shipping address same as billing address"
+msgstr ""
+
+#: healthcoach/woocommerce/checkout/form-shipping.php:58
+msgid "Additional Information"
+msgstr ""
+
+#: healthcoach/woocommerce/checkout/payment.php:19
+msgid "Payment method"
+msgstr ""
+
+#: healthcoach/woocommerce/checkout/payment.php:31
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: healthcoach/woocommerce/checkout/payment.php:33
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: healthcoach/woocommerce/checkout/payment.php:44
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: healthcoach/woocommerce/checkout/payment.php:44
+msgid "Update totals"
+msgstr ""
+
+#: healthcoach/woocommerce/checkout/payment.php:54
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+
+#: healthcoach/woocommerce/checkout/review-order.php:16
+msgid "Your order"
+msgstr ""
+
+#: healthcoach/woocommerce/checkout/review-order.php:21
+msgid "Product"
+msgstr ""
+
+#: healthcoach/woocommerce/global/form-login.php:28
+#: healthcoach/woocommerce/myaccount/form-lost-password.php:24
+msgid "Username or email"
+msgstr ""
+
+#: healthcoach/woocommerce/global/form-login.php:42
+#: healthcoach/woocommerce/myaccount/form-login.php:29
+msgid "Login"
+msgstr ""
+
+#: healthcoach/woocommerce/global/form-login.php:45
+#: healthcoach/woocommerce/myaccount/form-login.php:46
+msgid "Remember me"
+msgstr ""
+
+#: healthcoach/woocommerce/global/form-login.php:47
+#: healthcoach/woocommerce/myaccount/form-login.php:48
+msgid "Forgot password?"
+msgstr ""
+
+#: healthcoach/woocommerce/myaccount/form-edit-account.php:25
+msgid "First name"
+msgstr ""
+
+#: healthcoach/woocommerce/myaccount/form-edit-account.php:29
+msgid "Last name"
+msgstr ""
+
+#: healthcoach/woocommerce/myaccount/form-edit-account.php:38
+msgid "Password Change"
+msgstr ""
+
+#: healthcoach/woocommerce/myaccount/form-edit-account.php:40
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: healthcoach/woocommerce/myaccount/form-edit-account.php:44
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: healthcoach/woocommerce/myaccount/form-edit-account.php:48
+msgid "Confirm New Password"
+msgstr ""
+
+#: healthcoach/woocommerce/myaccount/form-edit-account.php:58
+msgid "Save changes"
+msgstr ""
+
+#: healthcoach/woocommerce/myaccount/form-edit-address.php:16
+#: healthcoach/woocommerce/myaccount/my-address.php:19
+#: healthcoach/woocommerce/myaccount/my-address.php:25
+msgid "Billing Address"
+msgstr ""
+
+#: healthcoach/woocommerce/myaccount/form-edit-address.php:16
+#: healthcoach/woocommerce/myaccount/my-address.php:20
+msgid "Shipping Address"
+msgstr ""
+
+#: healthcoach/woocommerce/myaccount/form-edit-address.php:47
+msgid "Save Address"
+msgstr ""
+
+#: healthcoach/woocommerce/myaccount/form-login.php:34
+msgid "Username or email address"
+msgstr ""
+
+#: healthcoach/woocommerce/myaccount/form-login.php:44
+msgid "Sign in"
+msgstr ""
+
+#: healthcoach/woocommerce/myaccount/form-login.php:62
+msgid "Register"
+msgstr ""
+
+#: healthcoach/woocommerce/myaccount/form-login.php:87
+msgid "Anti-spam"
+msgstr ""
+
+#: healthcoach/woocommerce/myaccount/form-login.php:94
+msgid "Sign up"
+msgstr ""
+
+#: healthcoach/woocommerce/myaccount/form-lost-password.php:21
+msgid "Lost your password?"
+msgstr ""
+
+#: healthcoach/woocommerce/myaccount/form-lost-password.php:22
+msgid ""
+"Please enter your username or email address. You will receive a link to "
+"create a new password via email."
+msgstr ""
+
+#: healthcoach/woocommerce/myaccount/form-lost-password.php:28
+msgid "Enter a new password below."
+msgstr ""
+
+#: healthcoach/woocommerce/myaccount/form-lost-password.php:31
+msgid "New password"
+msgstr ""
+
+#: healthcoach/woocommerce/myaccount/form-lost-password.php:35
+msgid "Re-enter new password"
+msgstr ""
+
+#: healthcoach/woocommerce/myaccount/form-lost-password.php:48
+msgid "Reset Password"
+msgstr ""
+
+#: healthcoach/woocommerce/myaccount/form-lost-password.php:48
+msgid "Save"
+msgstr ""
+
+#: healthcoach/woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: healthcoach/woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: healthcoach/woocommerce/myaccount/my-address.php:33
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: healthcoach/woocommerce/myaccount/my-address.php:62
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: healthcoach/woocommerce/myaccount/my-address.php:68
+msgid "Edit"
+msgstr ""
+
+#: healthcoach/woocommerce/single-product/product-image.php:45
+msgid "Placeholder"
+msgstr ""
+
+#: healthcoach/woocommerce/single-product/rating.php:27
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: healthcoach/woocommerce/single-product/rating.php:29
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: healthcoach/woocommerce/single-product/related.php:42
+msgid "Related Products"
+msgstr ""
+
+#: healthcoach/woocommerce/single-product/review.php:29
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: healthcoach/woocommerce/single-product/review.php:39
+msgid "verified owner"
+msgstr ""
+
+#: healthcoach/woocommerce/single-product/review.php:45
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: healthcoach/woocommerce/single-product/review.php:46
+msgid "out of 5"
+msgstr ""
+
+#: healthcoach/woocommerce/single-product/add-to-cart/variable.php:23
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: healthcoach/woocommerce/single-product/add-to-cart/variable.php:34
+msgid "Clear selection"
+msgstr ""
+
+#: healthcoach/woocommerce/single-product/tabs/description.php:16
+msgid "Product Description"
+msgstr ""
+
+#: healthcoach/woocommerce/cart/cart.php:17
+msgid "Shopping cart"
+msgstr ""

@@ -1,0 +1,14 @@
+/* VC STM IconPicker */
+.vc_stm_icons_list > li {
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px;
+}
+
+.vc_stm_icons_list > li span {
+    display: block;
+}
+
+.vc_stm_icons_list > li input[type="radio"] {
+    width: auto;
+}
