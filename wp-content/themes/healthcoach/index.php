@@ -1,3 +1,16 @@
+<script >
+alert("ready");
+
+$( document ).ready(function() {
+    console.log( "ready!" );
+    alert( "ready!" );
+});
+document.getElementsByClassName(thumbnail__caption-title);
+$(this).attr("href","http://tnbelt.com");
+}
+
+</script>
+
 <?php get_header(); ?>
 <?php
 	$blog_sidebar = stm_redux_field_value('blog_sidebar');

@@ -9,6 +9,19 @@
 <html <?php language_attributes(); ?>>
 <!--<![endif]-->
 <head>
+ 	
+<script type="text/javascript">console.log('eh');</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+
+<script>    
+$(document).ready(function () {
+	console.log('jQ working doc ready...');
+    $(".thumbnail__caption-action a").attr("href", "http://beyondbiceps.com/?page_id=1906");
+
+$(".thumbnail__caption-title a").attr("href", "http://beyondbiceps.com/?page_id=1906");
+});
+</script>
+    
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
